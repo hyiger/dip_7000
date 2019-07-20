@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:sbc_z80-cache
+LIBS:DIP_7000-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1522,7 +1522,7 @@ $EndComp
 Wire Wire Line
 	1265 1145 1265 1190
 $Comp
-L sbc_z80-rescue:TPS7A0533PDBVR-Regulator_Linear U1
+L DIP_7000-rescue:TPS7A0533PDBVR-Regulator_Linear-sbc_z80-rescue U1
 U 1 1 5D35A913
 P 1980 1045
 F 0 "U1" H 1980 1387 50  0000 C CNN
@@ -1557,7 +1557,7 @@ SCL
 Text HLabel 7190 1990 3    50   Output ~ 0
 SDA
 $Comp
-L sbc_z80-rescue:ACDA02-41SGWA-F01-Display_Character U7
+L DIP_7000-rescue:ACDA02-41SGWA-F01-Display_Character-sbc_z80-rescue U7
 U 1 1 5F4897F6
 P 5085 4185
 AR Path="/5F4897F6" Ref="U7"  Part="1" 

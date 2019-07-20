@@ -362,7 +362,7 @@ AR Path="/5D1AF052/5D1C705F" Ref="J?"  Part="1"
 AR Path="/5D1C705F" Ref="J3"  Part="1" 
 F 0 "J3" H 9580 4830 50  0000 R CNN
 F 1 "AVR-JTAG-10" H 9300 5330 50  0000 R CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical" V 9390 4980 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical" V 9390 4980 50  0001 C CNN
 F 3 "~" H 8265 4280 50  0001 C CNN
 	1    9540 4830
 	1    0    0    -1  
